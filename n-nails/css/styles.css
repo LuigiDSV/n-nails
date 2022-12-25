@@ -1,16 +1,11 @@
-.center {
-    text-align: center;
+.carousel {
+    width: 80%;
+    margin: auto;
 }
 
-a {
-    text-decoration: none;
-    color: black;
-}
-
-.navItem {
-    
-}
-
-.navBar {
+.page {
+    text-align: center !important;
+    align-content: center !important;
+    justify-content: center !important;
     
 }
